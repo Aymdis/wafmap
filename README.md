@@ -1,0 +1,2 @@
+# wafmap
+waf recognition
